@@ -1,0 +1,1 @@
+web: gunicorn paystackpay.wsgi --log-file -
